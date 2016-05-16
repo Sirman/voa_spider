@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "description": "http://kitap.kz/音频文件下载",
+  "keywords": [
+  ],
+  "author": {
+    "name": "lijunliang",
+    "email": "junguoliang@163.com"
+  },
+  "dependencies": {
+    "request":"*",
+    "cheerio":"*"
+  }
+}
